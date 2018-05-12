@@ -1,0 +1,33 @@
+_repo: Caybigan_37250
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hopper, James
+    alias: Hopper, James Marie
+    birthdate: 1876
+    deathdate: 1956
+    gutenberg_agent_id: '33841'
+    url: http://www.gutenberg.org/2009/agents/33841
+description: ''
+gutenberg_issued: '2011-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37250'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Americans -- Philippines -- Fiction'
+tableOfContents: The judgment of man -- The Maestro of Balangilang -- Her reading
+  -- The struggles and triumph of Isidro de los Maestros -- The failure -- Some benevolent
+  assimilation -- A jest of the gods -- The coming of the maestra -- Caybigan -- The
+  capture of Papa Gato -- The mañangete -- The past -- The prerogative -- The confluence
+  -- The call.
+title: Caybigan
+url: http://www.gutenberg.org/ebooks/37250
